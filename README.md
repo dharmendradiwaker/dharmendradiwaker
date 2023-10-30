@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dharmendra diwaker</h1>
-<h3 align="center">A passionate data science from India</h3>
+<h4 align="center">
+Data Science Enthusiast | BBA Graduate
+
+Hello! I'm Dharmendra, a passionate data science enthusiast with a background in Business Administration (BBA). Proficient in Python, SQL, Tableau, PowerBI, and machine learning, I thrive on leveraging data to derive insights and solutions. My journey revolves around unraveling patterns, crafting meaningful stories from data, and harnessing the power of technology to drive informed decisions. Always eager to explore new horizons in the world of data science.</h4>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
