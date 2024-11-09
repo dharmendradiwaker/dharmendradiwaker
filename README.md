@@ -1,23 +1,25 @@
 <h1 align="center">Hi 👋, I'm Dharmendra diwaker</h1>
 <h4 align="center">
-Data Science Enthusiast | BBA Graduate
+Data Scientist
 
-Hello! I'm Dharmendra, a passionate data science enthusiast with a background in Business Administration (BBA). Proficient in Python, SQL, Tableau, PowerBI, and machine learning, I thrive on leveraging data to derive insights and solutions. My journey revolves around unraveling patterns, crafting meaningful stories from data, and harnessing the power of technology to drive informed decisions. Always eager to explore new horizons in the world of data science.</h4>
+Hello! I'm Dharmendra, a passionate data scientist enthusiast with a background in Business Administration (BBA). Proficient in Python, machine learning, Deep learning (Pytorch), computer vision, NLP/LLM. I thrive on leveraging data to derive insights and solutions. My journey revolves around unraveling patterns, crafting meaningful stories from data, and harnessing the power of technology to drive informed decisions. Always eager to explore new horizons in the world of data science.</h4>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharmendradiwaker&label=Profile%20views&color=0e75b6&style=flat" alt="dharmendradiwaker" /> </p>
 
-- 💬 Ask me about **Python,SQl,Machine Learning**
+- 💬 Ask me about **Data Science, Machine Learning, Deep Learning, NLP and Artificial Intelligence**
 
-- 📫 How to reach me **dharmendradiwaker@gmail.com**
+- 📫 How to reach me **dharmendradiwaker12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/dharmendra diwaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dharmendra diwaker" height="30" width="40" /></a>
 <a href="https://instagram.com/its_dharmendradiwaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_dharmendradiwaker" height="30" width="40" /></a>
 <a href="https://medium.com/@dharmendra diwaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dharmendra diwaker" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dharmendra-diwaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="dharmendra-diwaker" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
