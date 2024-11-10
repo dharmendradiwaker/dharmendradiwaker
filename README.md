@@ -1,4 +1,14 @@
-<h2 align="left">Hi 👋! My name is Dharmendra diwaker and I'm a Data Scientist, from New Delhi.</h2>
+<h2 align="center">Hi 👋! I'm Dharmendra diwaker</h2>
+<h4 align="center">
+Data Scientist
+
+Hello! I'm Dharmendra, a passionate data scientist enthusiast with a background in Business Administration (BBA). Proficient in Python, machine learning, Deep learning (Pytorch), computer vision, NLP/LLM. I thrive on leveraging data to derive insights and solutions. My journey revolves around unraveling patterns, crafting meaningful stories from data, and harnessing the power of technology to drive informed decisions. Always eager to explore new horizons in the world of data science.</h4>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dharmendradiwaker&label=Profile%20views&color=0e75b6&style=flat" alt="dharmendradiwaker" /> </p>
+
+- 💬 Ask me about **Data Science, Machine Learning, Deep Learning, NLP and Artificial Intelligence**
+
+- 📫 How to reach me **dharmendradiwaker12@gmail.com**
 
 ###
 
@@ -59,9 +69,7 @@
 </div>
 
 ###
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Buy me a coffe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffe" /></a></p><br><br>
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/dharmendradiwaker/dharmendradiwaker/output/snake.svg" alt="Snake animation" />
-
-###
