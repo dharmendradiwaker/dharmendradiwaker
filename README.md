@@ -69,7 +69,3 @@ Hello! I'm Dharmendra, a passionate data scientist enthusiast with a background 
 </div>
 
 ###
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Buy me a coffe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffe" /></a></p><br><br>
-
-<br clear="both">
