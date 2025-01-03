@@ -66,13 +66,13 @@ Hello! I'm Dharmendra, a passionate data scientist enthusiast with a background 
   <a href="mailto:dharmendradiwaker12@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/yourlinkedinprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/dharmendra-diwaker/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://medium.com/@yourmediumprofile" target="_blank">
+  <a href="https://medium.com/@dharmendradiwaker12" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo" />
   </a>
-  <a href="https://twitter.com/yourtwitterprofile" target="_blank">
+  <a href="https://x.com/Dharmendra_2003" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
   </a>
 </div>
