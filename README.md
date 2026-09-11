@@ -1,6 +1,5 @@
 <h2 align="center">Hi 👋! I'm Dharmendra diwaker</h2>
 <h4 align="center">
-                                              Hii, I'm Dharmendra. 
 A AI/ML Engineer with 3+ years of experience building and deploying production-grade Machine Learning, Generative AI, and LLM-powered applications. Experienced in fine-tuning domain-specific LLMs using LoRA/PEFT, building RAG-based chatbots, agentic AI systems, and end-to-end ML pipelines. Built and deployed scalable ML solutions for forecasting, fraud detection, recommendation systems, NLP, computer vision, and lead scoring, including a production pipeline processing millions of behavioral events with 92+ engineered features. Developed LLM-powered applications with tool calling, multi-step workflows, contextual memory, vector databases, and MCP integrations. Strong hands-on experience with Python, PyTorch, TensorFlow, Hugging Face Transformers, LangChain/LangGraph, AWS SageMaker, Lambda, Docker, CI/CD, FastAPI, Apache Spark, and SQL. Delivered measurable improvements in model performance, including a 77% increase in BLEU score, 37% improvement in Token F1, and improved LLM evaluation. </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharmendradiwaker&label=Profile%20views&color=0e75b6&style=flat" alt="dharmendradiwaker" /> </p>
